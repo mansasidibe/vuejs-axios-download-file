@@ -1,5 +1,7 @@
 # vue
 
+Vous pourrez avoir plus d'info sur https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+
 ## Project setup
 ```
 npm install
